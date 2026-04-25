@@ -1,3 +1,4 @@
+ HEAD
 # 🧮 Scientific Calculator (Streamlit)
 An interactive scientific calculator built using Python and Streamlit.
 This app performs both basic and advanced mathematical operations in a clean and user-friendly interface.
@@ -49,3 +50,6 @@ streamlit run app.py
 
 
 
+=======
+# Project
+>>>>>>> d7ab18907648ccc34bbfb22b933a58917c500d4c
