@@ -27,7 +27,7 @@ scientific-calculator/
 ## How to Run 
 
 1. Clone the repository:
-git clone https://github.com/yourusername/scientific-calculator.git
+git clone https://github.com/drishtiverma09/project.git
 
 
 2. Go into the project folder:
