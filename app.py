@@ -2,7 +2,7 @@ import streamlit as st
 import math
 
 
-st.title("🧮 Scientific Calculator")
+st.title(" Scientific Calculator")
 
 #  STATE 
 if "exp" not in st.session_state:
